@@ -10,5 +10,5 @@
   ### Languages and Tools:
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,sqlite,arduino,git,github,linux,figma,vscode,idea,react,c++"/>
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,sqlite,arduino,git,github,linux,figma,vscode,idea,react,cpp"/>
   </p>
